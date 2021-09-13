@@ -3,7 +3,7 @@
 - I’m interested in RTL Design and Verification, Computer Architecture, Statistical Algorithms, Strategy, and Game Theory
 - I used to be a Petroleum Engineer; I jumped into ECE after working on hardware accelerated physics simulations at an internship
 - Fun fact, I have been playing Chess recreationally for around 20 years now! Reach out to @chrisdeweyschool on chess.com 
-- I am open to internship opportunities for Summer 2022! My commitment to you is that I will show up eager to learn every single day
+- I am open to internship opportunities for Summer 2022 - my commitment to you is that I will show up eager to learn every single day
 - If you are looking for a completely unique and interesting perspective to add to your team, I would love to hear from you!
 - 📫 Reach me at: dewey5 (at) purdue (dot) edu
 
